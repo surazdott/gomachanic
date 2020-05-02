@@ -1,4 +1,4 @@
-## GoMachanic- Service Finder
+## GoMachanic - Service Finder
 Gomachanic is the Service finder for Automobiles. You can find any places and location where you needed for repair, exchange and buy and sells.
 
 ## Installation
@@ -12,3 +12,9 @@ Gomachanic is the Service finder for Automobiles. You can find any places and lo
 2. OpenSSL PHP Extension
 3. Mbstring PHP Extension
 4. MYSQL Database
+
+<img src="https://raw.githubusercontent.com/surazdott/GoMachanic-Service-Finder-PHP-Application/master/screenshot.png">
+
+## License
+
+The Sidetheme is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
